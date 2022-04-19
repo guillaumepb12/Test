@@ -1,1 +1,3 @@
-printf("hellooo");
+void test2(){
+    printf("hellooo");
+}
